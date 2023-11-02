@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="queue.Empty" />
+          <option value="aiogram.types.ParseMode" />
+          <option value="executor.start_polling" />
+          <option value="aiogram.dispatcher.dispatcher.Dispatcher.middleware" />
+          <option value="bool.*" />
+          <option value="pip.*" />
+          <option value="routrs_.start.pip" />
+          <option value="email.feedparser.*" />
+          <option value="multiprocessing.Thead" />
+          <option value="aiogram.utils.i18n.*" />
+          <option value="mobilezone_bot.main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
